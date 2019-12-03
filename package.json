@@ -1,0 +1,28 @@
+{
+  "name": "oracleconnect",
+  "version": "1.0.0",
+  "description": "APIs to connect to database to retrive data using queries and procedures and other crud operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelli-Venkatesh/node-oracle.git"
+  },
+  "keywords": [
+    "Oracle",
+    "Procedures",
+    "Queries",
+    "Database"
+  ],
+  "author": "Nelli Venkatesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelli-Venkatesh/node-oracle/issues"
+  },
+  "homepage": "https://github.com/Nelli-Venkatesh/node-oracle#readme",
+  "dependencies": {
+    "oracledb": "^4.1.0"
+  }
+}
